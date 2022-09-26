@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: white;
+    background-color: darkred;
+    height: 60px;
+    font-size: 30px;
+    
+}
+.hr1{
+display: flex;    
+flex-wrap: wrap;
+margin: auto;   
+max-width: 110px;   
+}
+.logo{
+    height: 150px;
+}
+.etec{
+    left: 0;
+    margin-left: 0;
+    width: 100%;
+    min-width: 980px;
+    --pinned-layer-in-container: 51;
+    --above-all-in-container: 49;
+}
+.sidebar{
+    background-color: darkred;
+}
+.test {
+    background-color:darkred;
+    width: 100%;
+    height: 160px;
+    position: relative;
+    margin-top: -150px;
+  }
+  .border{
+        background-color:darkred;
+    width: 25px;
+    height: 900px;
+    position: relative;
+    margin-top: -920px;
+  }
+  .f1{
+    position: relative;
+    margin-left: 200px;
+    margin-top: -20px;
+    background-color: transparent;
+  }
