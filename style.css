@@ -7,7 +7,6 @@ h1{
     background-color: darkred;
     height: 60px;
     font-size: 30px;
-    
 }
 .hr1{
 display: flex;    
@@ -26,26 +25,24 @@ max-width: 110px;
     --pinned-layer-in-container: 51;
     --above-all-in-container: 49;
 }
-.sidebar{
-    background-color: darkred;
-}
 .test {
     background-color:darkred;
     width: 100%;
-    height: 160px;
+    height: 400px;
     position: relative;
-    margin-top: -150px;
+    margin-top: -300px;
   }
   .border{
         background-color:darkred;
     width: 25px;
-    height: 900px;
+    height: 950px;
     position: relative;
-    margin-top: -920px;
+    margin-top: -990px;
   }
-  .f1{
-    position: relative;
-    margin-left: 200px;
-    margin-top: -20px;
-    background-color: transparent;
-  }
+.map{
+   margin-left: 440px;
+   margin-top: -500px;
+   width: 1000px;
+   height: 420px;
+   position: relative;
+}
